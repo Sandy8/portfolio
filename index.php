@@ -53,7 +53,7 @@
 				<div class="col-md-8 col-md-offset-2 text-center">
 					<div class="display-t js-fullheight">
 						<div class="display-tc js-fullheight animate-box" data-animate-effect="fadeIn">
-							<div class="profile-thumb" style="background: url(images/young-woman.jpeg);"></div>
+							<div class="profile-thumb" style="background: url(images/woman.jpeg);"></div>
 							<h1><span>Sandhya Paghdar</span></h1>
 							<h3><span>Web developer/Fashion designer</span></h3>
 							<p>
