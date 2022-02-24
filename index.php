@@ -543,7 +543,7 @@
 			<h2>Contact</h2>
 			<!-- mailto:$emailID?subject=$MySubject &message= $MyMessageText" -->
 			<form action="https://formsubmit.co/radhgap@gmail.com" method="POST">
-				<input type="hidden" name="_next" value="sandhyapaghdar.com">
+				<input type="hidden" name="_next" value="https://sandhyapaghdar.com">
 				<div class="row form-group">
 					<div class="col-md-6">
 						<input type="text" name="fname" id="fname" class="form-control" placeholder="Your firstname" required>
