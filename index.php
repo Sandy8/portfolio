@@ -84,7 +84,7 @@
 						<li><span class="first-block">Full Name:</span><span class="second-block">Sandhya Paghdar</span></li>
 <!-- 						<li><span class="first-block">Phone:</span><span class="second-block">+1(111)111-1111</span></li> -->
 						<li><span class="first-block">Email:</span><span class="second-block">sandhyapatel848@gmail.com</span></li>
-						<li><span class="first-block">Website:</span><span class="second-block">www.yoursite.com</span></li>
+						<li><span class="first-block">Website:</span><span class="second-block">http://sandhyapaghdar.com/</span></li>
 						<li><span class="first-block">Address:</span><span class="second-block">Kithcener , ON</span></li>
 					</ul>
 				</div>
