@@ -546,30 +546,30 @@
 				<input type="hidden" name="_next" value="http://sandhyapaghdar.com">
 				<div class="row form-group">
 					<div class="col-md-6">
-						<input type="text" name="fname" id="fname" class="form-control" placeholder="Your firstname" required>
+						<input type="text" name="fname" id="fname" class="form-control" placeholder="Firstname" required>
 					</div>
 				</div>
 				<div class="row form-group">
 					<div class="col-md-6">
-						<input type="text" name="lname" id="lname" class="form-control" placeholder="Your lastname" required>
+						<input type="text" name="lname" id="lname" class="form-control" placeholder="Lastname" required>
 					</div>
 				</div>
 
 				<div class="row form-group">
 					<div class="col-md-12">
-						<input type="email" name="email" id="email" class="form-control" placeholder="Your email address" required>
+						<input type="email" name="email" id="email" class="form-control" placeholder="Email" required>
 					</div>
 				</div>
 
 				<div class="row form-group">
 					<div class="col-md-12">
-						<input type="text" name="subject" id="subject" class="form-control" placeholder="Your subject of this message" required>
+						<input type="text" name="subject" id="subject" class="form-control" placeholder="Subject of this message" required>
 					</div>
 				</div>
 
 				<div class="row form-group">
 					<div class="col-md-12">
-						<textarea name="message" id="message" cols="30" rows="10" class="form-control" placeholder="Say something about us" required></textarea>
+						<textarea name="message" id="message" cols="30" rows="10" class="form-control" placeholder="Brief message" required></textarea>
 					</div>
 				</div>
 				<div class="form-group">
