@@ -58,10 +58,10 @@
 							<h3><span>Web developer/Fashion designer</span></h3>
 							<p>
 								<ul class="fh5co-social-icons">
-								<li><a href="https://twitter.com/PaghdarSandhya" target="_blank"><i class="icon-twitter2"></i></a></li>
 									<li><a href="https://linkedin.com/in/sandhya-paghdar-04ab3620a" target="_blank"><i class="icon-linkedin2"></i></a></li>
-									<li><a href="https://www.instagram.com/ayhdnas____/" target="_blank"><i class="icon-instagram2"></i></a></li>
 									<li><a href="https://github.com/Sandy8" target="_blank"><i class="icon-github2"></i></a></li>
+									<li><a href="https://twitter.com/PaghdarSandhya" target="_blank"><i class="icon-twitter2"></i></a></li>
+									<li><a href="https://www.instagram.com/ayhdnas____/" target="_blank"><i class="icon-instagram2"></i></a></li>
 									<li><a href="#"><i class="icon-facebook2"></i></a></li>
 								</ul>
 							</p>
