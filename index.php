@@ -530,7 +530,8 @@
 					<p>Detail-oriented, organized and meticulous employee. Works at fast pace to meet tight
 						deadlines. Enthusiastic team player ready to contribute to company success.
 						</p>
-					<p><a href="#" class="btn btn-default btn-lg">Contact Us</a></p>
+					
+					<p><a href="#contactinfo" class="btn btn-default btn-lg">Contact Us</a></p>
 				</div>
 			</div>
 		</div>
@@ -540,7 +541,7 @@
 		<div class="video fh5co-video" style="background-image: url(images/picture.jpeg);">
 			<div class="overlay"></div>
 		</div>
-		<div class="choose animate-box">
+		<div class="choose animate-box" id="contactinfo">
 			<h2>Contact</h2>
 			<!-- mailto:$emailID?subject=$MySubject &message= $MyMessageText" -->
 			<form action="https://formsubmit.co/radhgap@gmail.com" method="POST">
